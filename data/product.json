@@ -1,0 +1,240 @@
+[
+    {
+        "name": "Laptop X1",
+        "price": 1200,
+        "description": "Powerful laptop for gaming and productivity",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "12345",
+                "url": "https://example.com/laptop-x1.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Tech Inc.",
+        "stock": 50,
+        "numberOfReviews": 10,
+        "reviews": [
+            {
+                "user": "John Doe",
+                "rating": 4,
+                "comment": "Great laptop, fast delivery!"
+            },
+            {
+                "user": "Jane Smith",
+                "rating": 5,
+                "comment": "Very satisfied with the performance."
+            }
+        ]
+    },
+    {
+        "name": "Camera Z2",
+        "price": 500,
+        "description": "High-resolution camera for professional photography",
+        "ratings": 4.2,
+        "images": [
+            {
+                "public_id": "67890",
+                "url": "https://example.com/camera-z2.jpg"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "Photo World",
+        "stock": 20,
+        "numberOfReviews": 5,
+        "reviews": [
+            {
+                "user": "Alice Johnson",
+                "rating": 4.5,
+                "comment": "Excellent camera, worth the price."
+            },
+            {
+                "user": "Bob Brown",
+                "rating": 4,
+                "comment": "Good quality pictures."
+            }
+        ]
+    },
+    {
+        "name": "Laptop Lenovo ThinkPad",
+        "price": 899.99,
+        "description": "Powerful laptop for business professionals.",
+        "ratings": 4.5,
+        "images": [
+          {
+            "public_id": "12345",
+            "url": "https://example.com/12345"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Tech Superstore",
+        "stock": 50,
+        "numberOfReviews": 15,
+        "reviews": [],
+        "createdAt": "2024-03-10T08:00:00Z"
+      },
+      {
+        "name": "Wireless Bluetooth Headphones",
+        "price": 49.99,
+        "description": "Immerse yourself in your favorite music with these high-quality headphones.",
+        "ratings": 4.2,
+        "images": [
+          {
+            "public_id": "67890",
+            "url": "https://example.com/67890"
+          }
+        ],
+        "category": "Headphones",
+        "seller": "SoundWave Electronics",
+        "stock": 100,
+        "numberOfReviews": 10,
+        "reviews": [],
+        "createdAt": "2024-03-09T12:00:00Z"
+      },
+      {
+        "name": "Organic Coffee Beans",
+        "price": 12.99,
+        "description": "Delicious and aromatic coffee beans sourced from sustainable farms.",
+        "ratings": 4.7,
+        "images": [
+          {
+            "public_id": "23456",
+            "url": "https://example.com/23456"
+          }
+        ],
+        "category": "Food",
+        "seller": "GreenBean Roasters",
+        "stock": 200,
+        "numberOfReviews": 20,
+        "reviews": [],
+        "createdAt": "2024-03-08T10:00:00Z"
+      },
+      {
+        "name": "Waterproof Outdoor Backpack",
+        "price": 69.99,
+        "description": "Spacious backpack with multiple compartments, perfect for outdoor adventures.",
+        "ratings": 4.8,
+        "images": [
+          {
+            "public_id": "34567",
+            "url": "https://example.com/34567"
+          }
+        ],
+        "category": "Outdoor",
+        "seller": "Adventure Gear Co.",
+        "stock": 75,
+        "numberOfReviews": 12,
+        "reviews": [],
+        "createdAt": "2024-03-07T15:00:00Z"
+      },
+      {
+        "name": "Yoga Mat with Carrying Strap",
+        "price": 29.99,
+        "description": "High-quality yoga mat for your daily practice, includes carrying strap.",
+        "ratings": 4.6,
+        "images": [
+          {
+            "public_id": "45678",
+            "url": "https://example.com/45678"
+          }
+        ],
+        "category": "Sports",
+        "seller": "Zen Living Essentials",
+        "stock": 120,
+        "numberOfReviews": 8,
+        "reviews": [],
+        "createdAt": "2024-03-06T18:00:00Z"
+      },
+      {
+        "name": "Smart LED TV - 55 inches",
+        "price": 1099.99,
+        "description": "Immerse yourself in stunning picture quality with this 4K Smart TV.",
+        "ratings": 4.9,
+        "images": [
+          {
+            "public_id": "56789",
+            "url": "https://example.com/56789"
+          }
+        ],
+        "category": "Electronics",
+        "seller": "Tech Hub",
+        "stock": 30,
+        "numberOfReviews": 25,
+        "reviews": [],
+        "createdAt": "2024-03-05T14:00:00Z"
+      },
+      {
+        "name": "Portable Blender - USB Rechargeable",
+        "price": 39.99,
+        "description": "Blend your favorite smoothies and shakes anywhere with this portable blender.",
+        "ratings": 4.4,
+        "images": [
+          {
+            "public_id": "67891",
+            "url": "https://example.com/67891"
+          }
+        ],
+        "category": "Accessories",
+        "seller": "Healthy Living Solutions",
+        "stock": 80,
+        "numberOfReviews": 18,
+        "reviews": [],
+        "createdAt": "2024-03-04T16:00:00Z"
+      },
+      {
+        "name": "Men's Casual Sneakers",
+        "price": 59.99,
+        "description": "Stylish and comfortable sneakers for everyday wear.",
+        "ratings": 4.3,
+        "images": [
+          {
+            "public_id": "78901",
+            "url": "https://example.com/78901"
+          }
+        ],
+        "category": "Clothes/shoes",
+        "seller": "Fashion Trends",
+        "stock": 150,
+        "numberOfReviews": 14,
+        "reviews": [],
+        "createdAt": "2024-03-03T20:00:00Z"
+      },
+      {
+        "name": "Wireless Charging Pad for Phones",
+        "price": 24.99,
+        "description": "Convenient wireless charging pad compatible with most smartphones.",
+        "ratings": 4.1,
+        "images": [
+          {
+            "public_id": "89012",
+            "url": "https://example.com/89012"
+          }
+        ],
+        "category": "Electronics",
+        "seller": "Gadget World",
+        "stock": 100,
+        "numberOfReviews": 9,
+        "reviews": [],
+        "createdAt": "2024-03-02T22:00:00Z"
+      },
+      {
+        "name": "Cookbook: Healthy Recipes",
+        "price": 19.99,
+        "description": "Discover delicious and nutritious recipes for a healthy lifestyle.",
+        "ratings": 4.7,
+        "images": [
+          {
+            "public_id": "90123",
+            "url": "https://example.com/90123"
+          }
+        ],
+        "category": "Books",
+        "seller": "Cooking Corner",
+        "stock": 50,
+        "numberOfReviews": 11,
+        "reviews": [],
+        "createdAt": "2024-03-01T12:00:00Z"
+      }            
+      
+      
+]
